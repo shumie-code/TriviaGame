@@ -1,8 +1,17 @@
-
+.big-banner {
+    background-image: url("../images/earth1.jpg")
+}
 
 .choice {
     border: 1px solid lightblue;
     padding: 10px;
     border-radius: 4px;
     cursor: pointer;
+}
+
+.container {
+    border: 2px solid blue;
+    padding: 10px;
+    border-radius: 4px;
+    max-width: 50%;
 }
