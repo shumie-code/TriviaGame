@@ -41,3 +41,16 @@ const quizQuestions =  [
     correctAnswer: "1"
 }
 ];
+
+const happyImages = [
+    '/assets/images/congrats1.gif',
+    '/assets/images/congrats2.gif',
+    '/assets/images/congrats3.gif'
+
+];
+
+const sadImages = [
+    '/assets/images/oops1.gif',
+    '/assets/images/oops2.gif',
+    '/assets/images/oops3.gif'
+];
